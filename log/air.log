@@ -1,0 +1,288 @@
+05.04.2018 21:06:07 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:06:07 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:06:07 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CurgoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:06:07 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:07:01 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CurgoTaxi{id= 1, data= DeliveryTime{_hour=19, _minute=33, _day=4, _mouth=8, _year=461}, speed= 36, gasMilege= 21, cost= 36}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CurgoTaxi{id= 2, data= DeliveryTime{_hour=1, _minute=53, _day=19, _mouth=7, _year=911}, speed= 37, gasMilege= 79, cost= 112}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CurgoTaxi{id= 3, data= DeliveryTime{_hour=11, _minute=35, _day=5, _mouth=3, _year=160}, speed= 16, gasMilege= 78, cost= 91}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CurgoTaxi{id= 4, data= DeliveryTime{_hour=10, _minute=59, _day=15, _mouth=10, _year=1785}, speed= 22, gasMilege= 75, cost= 52}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CurgoTaxi{id= 5, data= DeliveryTime{_hour=9, _minute=20, _day=16, _mouth=1, _year=379}, speed= 91, gasMilege= 92, cost= 124}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Taxi{id=12_speed=116, _cost=97, _gasMileage=43, _door=3}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Taxi{id=12_speed=145, _cost=51, _gasMileage=27, _door=3}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Taxi{id=12_speed=141, _cost=60, _gasMileage=38, _door=0}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Taxi{id=12_speed=48, _cost=82, _gasMileage=93, _categoryCar=audi}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Taxi{id=12_speed=45, _cost=29, _gasMileage=4, _categoryCar=audi}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Taxi{id=12_speed=69, _cost=29, _gasMileage=88, _categoryCar=audi}
+05.04.2018 21:07:05 [main] INFO  by.belstu.it.kovalchuk.main.Main  - End program__________________________________
+05.04.2018 21:15:14 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:15:14 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:15:14 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:15:14 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:15:42 [main] ERROR by.belstu.it.kovalchuk.main.Main  - java.lang.NullPointerException
+05.04.2018 21:15:53 [main] ERROR by.belstu.it.kovalchuk.main.Main  - java.lang.NullPointerException
+05.04.2018 21:18:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:18:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:18:46 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:18:46 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:19:06 [main] ERROR by.belstu.it.kovalchuk.main.Main  - java.lang.NullPointerException
+05.04.2018 21:19:10 [main] ERROR by.belstu.it.kovalchuk.main.Main  - java.lang.Exception: Переменные не инициализированны
+05.04.2018 21:24:34 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:34 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:24:34 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:24:34 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:24:45 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:24:51 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=10_speed=272, _cost=39, _gasMileage=85, _categoryCar=audi}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 1, data= DeliveryTime{_hour=8, _minute=30, _day=0, _mouth=10, _year=180}, speed= 97, gasMilege= 88, cost= 56}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 2, data= DeliveryTime{_hour=2, _minute=10, _day=18, _mouth=6, _year=1609}, speed= 28, gasMilege= 71, cost= 9}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 3, data= DeliveryTime{_hour=18, _minute=50, _day=6, _mouth=2, _year=1533}, speed= 45, gasMilege= 47, cost= 134}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=10_speed=196, _cost=93, _gasMileage=20, _door=3}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=10_speed=124, _cost=36, _gasMileage=1, _door=0}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=10_speed=156, _cost=42, _gasMileage=16, _door=1}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=10_speed=272, _cost=39, _gasMileage=85, _categoryCar=audi}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=10_speed=103, _cost=192, _gasMileage=99, _categoryCar=audi}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=10_speed=174, _cost=69, _gasMileage=18, _categoryCar=audi}
+05.04.2018 21:25:02 [main] INFO  by.belstu.it.kovalchuk.main.Main  - End program__________________________________
+05.04.2018 21:30:56 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:30:56 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:30:57 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:30:57 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:31:11 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:31:17 [main] INFO  by.belstu.it.kovalchuk.main.Main  - Общая стоимость: 906
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Вывести весь парк на экране: 
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=113, _cost=61, _gasMileage=0, _categoryCar=audi}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 3, data= DeliveryTime{_hour=12, _minute=2, _day=28, _mouth=5, _year=1289}, speed= 25, gasMilege= 10, cost= 65}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=149, _cost=24, _gasMileage=11, _categoryCar=audi}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 1, data= DeliveryTime{_hour=2, _minute=31, _day=23, _mouth=5, _year=1021}, speed= 83, gasMilege= 17, cost= 72}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=172, _cost=86, _gasMileage=24, _door=2}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=17, _cost=0, _gasMileage=27, _door=0}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=172, _cost=50, _gasMileage=36, _door=1}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=14, _cost=2, _gasMileage=40, _door=1}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=36, _cost=6, _gasMileage=41, _door=0}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 4, data= DeliveryTime{_hour=4, _minute=15, _day=25, _mouth=8, _year=78}, speed= 81, gasMilege= 65, cost= 21}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 5, data= DeliveryTime{_hour=3, _minute=17, _day=29, _mouth=4, _year=1931}, speed= 70, gasMilege= 66, cost= 134}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 2, data= DeliveryTime{_hour=12, _minute=50, _day=30, _mouth=5, _year=339}, speed= 37, gasMilege= 68, cost= 70}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=129, _cost=139, _gasMileage=77, _categoryCar=audi}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=21, _cost=70, _gasMileage=87, _categoryCar=audi}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=107, _cost=106, _gasMileage=90, _categoryCar=audi}
+05.04.2018 21:31:37 [main] INFO  by.belstu.it.kovalchuk.main.Main  - End program__________________________________
+05.04.2018 21:35:08 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:08 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:35:08 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:35:08 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:35:20 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:35:22 [main] INFO  by.belstu.it.kovalchuk.main.Main  - Общая стоимость: 977
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Вывести весь парк на экране: 
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 1, data= DeliveryTime{_hour=14, _minute=48, _day=20, _mouth=0, _year=1270}, speed= 0, gasMilege= 52, cost= 11}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 2, data= DeliveryTime{_hour=11, _minute=2, _day=26, _mouth=11, _year=145}, speed= 4, gasMilege= 66, cost= 14}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 3, data= DeliveryTime{_hour=20, _minute=11, _day=23, _mouth=8, _year=1991}, speed= 87, gasMilege= 36, cost= 98}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 4, data= DeliveryTime{_hour=16, _minute=18, _day=30, _mouth=2, _year=1557}, speed= 53, gasMilege= 99, cost= 85}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 5, data= DeliveryTime{_hour=8, _minute=6, _day=21, _mouth=2, _year=155}, speed= 24, gasMilege= 21, cost= 145}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=149, _cost=52, _gasMileage=37, _door=0}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=127, _cost=22, _gasMileage=9, _door=3}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=185, _cost=88, _gasMileage=35, _door=3}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=45, _cost=77, _gasMileage=47, _door=1}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=16_speed=61, _cost=13, _gasMileage=49, _door=3}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=10, _cost=92, _gasMileage=61, _categoryCar=audi}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=274, _cost=47, _gasMileage=45, _categoryCar=audi}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=26, _cost=8, _gasMileage=87, _categoryCar=audi}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=155, _cost=99, _gasMileage=2, _categoryCar=audi}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=16_speed=58, _cost=126, _gasMileage=23, _categoryCar=audi}
+05.04.2018 21:35:33 [main] INFO  by.belstu.it.kovalchuk.main.Main  - End program__________________________________
+05.04.2018 21:36:43 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:43 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:36:43 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:36:43 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:36:52 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:36:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Вывести весь парк на экране: 
+05.04.2018 21:36:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 1, data= DeliveryTime{_hour=19, _minute=46, _day=4, _mouth=8, _year=571}, speed= 30, gasMilege= 9, cost= 25}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 2, data= DeliveryTime{_hour=4, _minute=5, _day=6, _mouth=7, _year=156}, speed= 31, gasMilege= 12, cost= 41}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 3, data= DeliveryTime{_hour=0, _minute=21, _day=14, _mouth=7, _year=932}, speed= 17, gasMilege= 53, cost= 40}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 4, data= DeliveryTime{_hour=0, _minute=11, _day=9, _mouth=10, _year=1552}, speed= 57, gasMilege= 35, cost= 100}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 5, data= DeliveryTime{_hour=10, _minute=40, _day=12, _mouth=4, _year=855}, speed= 84, gasMilege= 37, cost= 90}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=21_speed=123, _cost=96, _gasMileage=7, _door=0}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=21_speed=122, _cost=33, _gasMileage=44, _door=1}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=21_speed=110, _cost=88, _gasMileage=45, _door=0}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=21_speed=13, _cost=72, _gasMileage=28, _door=0}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=21_speed=49, _cost=91, _gasMileage=14, _door=1}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=21_speed=109, _cost=92, _gasMileage=22, _categoryCar=audi}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=21_speed=167, _cost=139, _gasMileage=72, _categoryCar=audi}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=21_speed=278, _cost=122, _gasMileage=61, _categoryCar=audi}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=21_speed=287, _cost=28, _gasMileage=2, _categoryCar=audi}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=21_speed=52, _cost=62, _gasMileage=71, _categoryCar=audi}
+05.04.2018 21:36:59 [main] INFO  by.belstu.it.kovalchuk.main.Main  - End program__________________________________
+05.04.2018 21:43:37 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:37 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:43:37 [main] INFO  by.belstu.it.kovalchuk.main.Main  - CargoTaxi{id= 0, data= DeliveryTime{_hour=12, _minute=12, _day=12, _mouth=12, _year=1212}, speed= 1, gasMilege= 2, cost= 3}
+05.04.2018 21:43:37 [main] INFO  by.belstu.it.kovalchuk.main.Main  - 
+
+Starting program_____________________________
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.CargoTaxi  - Вызван конструктор CargoTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.CheapTaxi  - Вызван конструктор CheapTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.Taxi  - Вызван конструктор Taxi (c параметрами)
+05.04.2018 21:43:47 [main] INFO  by.belstu.it.kovalchuk.taxi.VipTaxi  - Вызван констурктор VipTaxi (с параметрами)
+05.04.2018 21:43:55 [main] INFO  by.belstu.it.kovalchuk.main.Main  - Общая стоимость: 430
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - Вывести весь парк на экране: 
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 1, data= DeliveryTime{_hour=23, _minute=23, _day=15, _mouth=9, _year=1980}, speed= 33, gasMilege= 25, cost= 65}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 2, data= DeliveryTime{_hour=0, _minute=22, _day=25, _mouth=10, _year=1320}, speed= 72, gasMilege= 56, cost= 41}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CargoTaxi{id= 3, data= DeliveryTime{_hour=9, _minute=39, _day=4, _mouth=8, _year=560}, speed= 36, gasMilege= 17, cost= 137}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=4_speed=71, _cost=38, _gasMileage=18, _door=3}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=5_speed=150, _cost=24, _gasMileage=36, _door=0}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - CheapTaxi{id=6_speed=1, _cost=31, _gasMileage=33, _door=2}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=7_speed=183, _cost=6, _gasMileage=18, _categoryCar=audi}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=8_speed=60, _cost=30, _gasMileage=39, _categoryCar=audi}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.managing.Manager  - VipTaxi{id=9_speed=65, _cost=58, _gasMileage=85, _categoryCar=audi}
+05.04.2018 21:43:58 [main] INFO  by.belstu.it.kovalchuk.main.Main  - End program__________________________________
